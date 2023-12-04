@@ -1,0 +1,5 @@
+# .gitignore
+Pictures/
+Library/
+.Trash/
+.nvm/
